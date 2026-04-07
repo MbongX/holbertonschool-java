@@ -1,4 +1,4 @@
-public class PrintIntegerVariable(){
+public class PrintIntegerVariable{
   int number = 1600;
 
   public static void main(String[] args) {
